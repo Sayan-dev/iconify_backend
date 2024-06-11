@@ -1,6 +1,6 @@
 from flask import Flask
-
 from app.modules.icon import icons
+
 
 def create_app() -> object:
     """

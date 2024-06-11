@@ -1,0 +1,17 @@
+2. 
+
+
+1. prompt structure
+
+
+
+
+business_type
+look_and_feel
+text
+tagline
+32x32
+color-3
+
+
+color_range = [#2196F3, #4CAF50, #F44336, #FFEB3B, #FF9800, #9C27B0, #00BCD4, #009688, #E91E63, #9E9E9E, #000000, #ffffff]

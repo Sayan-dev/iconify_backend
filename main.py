@@ -10,10 +10,6 @@ load_dotenv()
 
 app = Flask(__name__)
 
-# client = OpenAI()
-
-
-# client.api_key = os.getenv("OPENAI_API_KEY")
 
 
 # @app.route('/generate-image', methods=['POST'])
